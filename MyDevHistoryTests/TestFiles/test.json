@@ -1,0 +1,560 @@
+{
+  "lastUpdated": "24 Jul 2019, 14:00",
+  "profile" : {
+    "name" : "Rodolfo",
+    "lastName" : "Castillo",
+    "secondLastName": "Vidrio",
+    "fullName": "Rodolfo Castillo Vidrio",
+    "extract": "Im a 26 years old iOS Developer. Currently I work as an iOS developer for Globant. I started my career at hackathons and then founded my own company Mariachi IO.",
+    "profilePhoto" : "https://scontent-qro1-1.xx.fbcdn.net/v/t1.0-9/61460904_1897744130327638_1780642579918880768_o.jpg?_nc_cat=110&_nc_eui2=AeE9b74mNetotpHqrWMti7l67F67zH61QKqf8NeMQ7Gilbm8tseqHb9juhSqYWBRJSLXqSH4KeogXwfOpdhsUvAXbziB72VQkLvUoVMnu9DjOQ&_nc_oc=AQmIRILjuY61lTamdf7vnR-hOXsx2CmgxDIiTPR_yC5wPUIabo8z9Br40e2WAE28sno&_nc_ht=scontent-qro1-1.xx&oh=41c65de98e1dbf0a8637dc3e91025530&oe=5DA098E8",
+    "age": 26,
+    "currentPosition": "iOS Developer",
+    "phone": "+52-55-8680-6258",
+    "email": "raindeerdeveloper@gmail.com"
+  },
+  "achievements" : [
+    {
+      "title": "Got into College",
+      "date": "Jun 2013",
+      "image": "https://scontent.fmex15-1.fna.fbcdn.net/v/t1.0-9/1471303_431890236913042_1223378855_n.jpg?_nc_cat=107&_nc_eui2=AeEApR8EzIKOPJ6IBc-JS37JFUz6VkKXp-fHmxC2wV0IS0wGzgkn1Q6HDXTcC4u4RepE66ieg8DhraRIQ5SZ-vlBURJIScxvCsCGt2q1lWCBpA&_nc_oc=AQnhj12aHMCLn425rVyN7kTqIxKPTT2keQPFkPxlsXLwxifv_mFifc15wKXe1fEp174&_nc_ht=scontent.fmex15-1.fna&oh=5098578c6464876c00d711ef7b502fb5&oe=5DB35014"
+    },
+    {
+      "title": "Won MX Hacks",
+      "date": "Nov 2014",
+      "image": "https://scontent.fmex15-1.fna.fbcdn.net/v/t1.0-9/10610910_559426554159409_4156759577199353321_n.jpg?_nc_cat=104&_nc_eui2=AeFD5-gBgYBvkNKSmW2hUabbURbdCutyL47db8JjhuctLEh18zW4MIq_VK4_enBSvXQWT6PhUFOkj5IaXY276xwb7f_R6lzM7X-uN_crnxwkow&_nc_oc=AQm1mE_xjEIFZ8xX4fyLFlK1Rlr0PDHILPRo8tl3VxDRiYpHGModmKQxG3z5WOFlFyo&_nc_ht=scontent.fmex15-1.fna&oh=bf7151c8ff9fbcb0884065ac6bb01a4a&oe=5DA4F18A"
+    },
+    {
+      "title": "Got into Globant",
+      "date": "Mar 2017",
+      "iamge": "https://i.stack.imgur.com/o6mBp.jpg"
+    }
+  ],
+  "jobs" : [
+    {
+      "companyName": "Globant",
+      "companyLogo": "https://i.stack.imgur.com/o6mBp.jpg",
+      "position": "iOS Developer",
+      "started": "Jul 2018",
+      "ended": null,
+      "isCurrentJob": true,
+      "projects" : [
+        {
+          "name": "In-house project",
+          "image": "https://scontent.fmex15-1.fna.fbcdn.net/v/t1.0-9/59639346_10156409535579010_1351742580190085120_n.png?_nc_cat=108&_nc_eui2=AeHUh3nyPH9CXf3etSu_-QBI4DL9FtLGv0X_tU_CwO--140ph_btMU_HW9Q9nep_E7lFihDXwid3IymosglOFg59dDop1fpfCiNOqKtfIGIwRQ&_nc_oc=AQnnkgc7v_6y0YaXMU1OsIHAMjmSVp_7thcQRjoNG3It_q3lMWcXccS5IHn4A2ELBw8&_nc_ht=scontent.fmex15-1.fna&oh=1b83d2e8d1395f8088e0e9a165652837&oe=5DB16A77",
+          "started": "Jul 2018",
+          "ended": "Jul 2019",
+          "description": "iOS Developer for in-house promotion and cupons app. I was in charge of developing specific views and features using VIPER as Architecture.",
+          "position" : "iOS Developer",
+          "skillsUsed" : [
+            {
+              "skillName" : "Swift",
+              "category" : "lang",
+              "proficency": "intermediate",
+              "icon": "https://www.bleepstatic.com/content/hl-images/2017/03/18/thumb/170x170_apple-swift.jpg"
+            },
+            {
+              "skillName" : "AlamoFire",
+              "category" : "framework",
+              "proficency": "adept",
+              "icon": "https://www.codeterritory.com/assets/icon_server-4d5403dc91dcc464cd0a21f0046e3e77.png"
+            },
+            {
+              "skillName" : "InterfaceBuilder",
+              "category" : "iosDev",
+              "proficency": "adept",
+              "icon": "https://cdn2.iconfinder.com/data/icons/building-flat/512/crane_2-512.png"
+            },
+            {
+              "skillName" : "MVVM",
+              "category" : "arch",
+              "proficency": "adept",
+              "icon": "https://cocoacasts.s3.amazonaws.com/courses/mastering-model-view-viewmodel-with-swift-3/icon-mvvm.png"
+            },
+            {
+              "skillName" : "VIPER",
+              "category" : "arch",
+              "proficency": "begginner",
+              "icon": "https://thumbs.dreamstime.com/t/viper-snake-serpent-cobra-python-anaconda-viper-royal-engraved-hand-drawn-old-sketch-vintage-style-viper-snake-105248006.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "companyName": "Independant Contractor",
+      "companyLogo": "https://findicons.com/files/icons/730/soft/128/user_male.png",
+      "position": "iOS Developer & Web Developer",
+      "started": "Jan 2018",
+      "ended": "Jun 2018",
+      "isCurrentJob": false,
+      "projects" : [
+        {
+          "name": "Uxmal Stream",
+          "image": "https://scontent.fmex15-1.fna.fbcdn.net/v/t1.0-9/20994097_852640304895307_2659682675840343841_n.jpg?_nc_cat=101&_nc_eui2=AeHuDQkMOdutfuCBr_ME6ScXj_MSv1gUGMEhvmLR-GwlNleHboPtCX5wp9Pu_Hx1Pz10l_ifKmJ_dIVTmG0ur-8U_rzBFtwlQSzjP1fJC7dW8Q&_nc_oc=AQn-AszWk-CWyucYJruhI8nY_sNVfLARUmCFb-HQ47a0LFDP-4oobskNVTP0Pa7yFi4&_nc_ht=scontent.fmex15-1.fna&oh=264bb7ea7d8702efb14cc1ef48cb9bc4&oe=5DAA5605",
+          "started": "Jan 2018",
+          "ended": "Mar 2018",
+          "description": "iOS and Web Developer working on inhouse apps for Uxmal Stream, working specifically on a app to control a media delivery device. Uxmal give services to restaurants and businesses to provide them with audio visual content through streaming using specialized hardware.",
+          "position" : "Frontend Developer & iOS Developer",
+          "skillsUsed" : [
+            {
+              "skillName" : "Swift",
+              "category" : "lang",
+              "proficency": "intermediate",
+              "icon": "https://www.bleepstatic.com/content/hl-images/2017/03/18/thumb/170x170_apple-swift.jpg"
+            },
+            {
+              "skillName" : "AlamoFire",
+              "category" : "framework",
+              "proficency": "adept",
+              "icon": "https://www.codeterritory.com/assets/icon_server-4d5403dc91dcc464cd0a21f0046e3e77.png"
+            },
+            {
+              "skillName" : "InterfaceBuilder",
+              "category" : "iosDev",
+              "proficency": "adept",
+              "icon": "https://cdn2.iconfinder.com/data/icons/building-flat/512/crane_2-512.png"
+            },
+            {
+              "skillName" : "MVC",
+              "category" : "arch",
+              "proficency": "adept",
+              "icon": "https://www.codeproject.com/KB/aspnet/528117/11.JPG"
+            },
+            {
+              "skillName" : "Angular 4",
+              "category" : "framework",
+              "proficency": "begginner",
+              "icon": "https://symbiotics.co.za/wp-content/uploads/2017/07/ObservablesinAngular4-150x150.jpg"
+            },
+            {
+              "skillName" : "React JS",
+              "category" : "framework",
+              "proficency": "begginner",
+              "icon": "https://reactjsexample.com/content/images/2019/06/favicon--1-.png"
+            },
+            {
+              "skillName" : "Sails",
+              "category" : "framework",
+              "proficency": "begginner",
+              "icon": "https://www.a2hosting.com/images/software_images/sails.js-hosting.png"
+            },
+            {
+              "skillName" : "Java Script",
+              "category" : "lang",
+              "proficency": "adept",
+              "icon": "https://cdn1.iconfinder.com/data/icons/application-file-formats/128/javascript-512.png"
+            }
+          ]
+        },
+        {
+          "name": "Scotia Bank",
+          "image": "https://scontent.fmex15-1.fna.fbcdn.net/v/t1.0-9/59480446_2239886179420507_519286602925604864_n.jpg?_nc_cat=1&_nc_eui2=AeH6YGFE8kB-eFWkqYdemY4WzN4CUBb7GlyaZr6F8UDA-dUALVJdF65WoX8ne-gwN1Ww6Puyv401hs_qUt-j0hrCYPPNKHIr8NeVB5H3ly3ttw&_nc_oc=AQkJL2uCAzVdCQqsLjYU7N8UsLt3lkwanpw1PsmAOSyiwbZuDHbXg6SAUmY6Ki1637A&_nc_ht=scontent.fmex15-1.fna&oh=a49bb7f4d170a15015c01de10a30469b&oe=5DE1EB83",
+          "started": "Mar 2018",
+          "ended": "Jun 2018",
+          "description": "Frontend developer for in-house web app. This app was used to build a webpage based on a JSON. Basically this app would configure a json to present a custom view to the client. The app was for the representatives to use. I developed the mechanism that created the JSON based on the representative preferences and needs",
+          "skillsUsed" : [
+            {
+              "skillName" : "React JS",
+              "category" : "framework",
+              "proficency": "intermediate",
+              "icon": "https://reactjsexample.com/content/images/2019/06/favicon--1-.png"
+            },
+            {
+              "skillName" : "Java Script",
+              "category" : "framework",
+              "proficency": "adept",
+              "icon": "https://cdn1.iconfinder.com/data/icons/application-file-formats/128/javascript-512.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "companyName": "Globant",
+      "companyLogo": "https://i.stack.imgur.com/o6mBp.jpg",
+      "position": "iOS Developer",
+      "started": "Mar 2017",
+      "ended": "Jan 2018",
+      "isCurrentJob": false,
+      "projects" : [
+        {
+          "name": "Open Bank",
+          "image": "https://scontent.fmex15-1.fna.fbcdn.net/v/t1.0-9/54516934_420028998731640_6748095707434975232_n.jpg?_nc_cat=103&_nc_eui2=AeF54nQ2VlbZBDkagnk94KYhWDxM-cVV7XBaIpkxpyPLVAt2MvZeMQq9kaROk-Mn2m7vOvdxb5Yg86EucLdSZDPtAI3lvBuBAZg5_9Jff68L1A&_nc_oc=AQnYsfWcshbrbueSxdr3MLTfqrjVeFHH3JiYTTfWjKeC0O_wR6AU0crmM6NQsEqpOM0&_nc_ht=scontent.fmex15-1.fna&oh=74f6ff3863ca4d6cbe1fdaa550d6d522&oe=5DE3FE51",
+          "started": "May 2017",
+          "ended": "Oct 2017",
+          "description": "During this project I developed some features like Bank Transfer Views, Services, Tutorial Views and User Preferences. Swift was used for Views and Controllers while Objective C was used for Services and Models",
+          "position" : "iOS Developer",
+          "skillsUsed" : [
+            {
+              "skillName" : "Swift",
+              "category" : "lang",
+              "proficency": "intermediate",
+              "icon": "https://www.bleepstatic.com/content/hl-images/2017/03/18/thumb/170x170_apple-swift.jpg"
+            },
+            {
+              "skillName" : "Objective C",
+              "category" : "lang",
+              "proficency": "adept",
+              "icon": "https://images.ctfassets.net/7clmb9ye18e7/6LpZ8WIScMKQsAi0EoosMy/253f0d9b2f13a1b48d2a35632e86487f/Objective-c-logo.png"
+            },
+            {
+              "skillName" : "InterfaceBuilder",
+              "category" : "iosDev",
+              "proficency": "adept",
+              "icon": "https://cdn2.iconfinder.com/data/icons/building-flat/512/crane_2-512.png"
+            },
+            {
+              "skillName" : "MVVM",
+              "category" : "arch",
+              "proficency": "adept",
+              "icon": "https://cocoacasts.s3.amazonaws.com/courses/mastering-model-view-viewmodel-with-swift-3/icon-mvvm.png"
+            },
+            {
+              "skillName" : "AlamoFire",
+              "category" : "framework",
+              "proficency": "adept",
+              "icon": "https://www.codeterritory.com/assets/icon_server-4d5403dc91dcc464cd0a21f0046e3e77.png"
+            },
+          ]
+        }
+      ]
+    },
+    {
+      "companyName": "Mariachi IO",
+      "companyLogo": "https://scontent-qro1-1.xx.fbcdn.net/v/t1.0-9/22789068_1954059614817312_7700411560472895805_n.jpg?_nc_cat=107&_nc_eui2=AeHXqwBI4bzv6AO6DxIUuyL1f6Zyior68d2DGA3Nm_zEwGOTb1vWUEI3PAaExKRRY_TYOqsI2ruJFt8Dbe3sMP7A7iQVzonBihNetK4NmeuMsA&_nc_oc=AQltTwN_r11HKSoT0UQ0vgrDcEMtGDzsfoy2h3AmEBOOTg0DZVdKWtugHez6ZKMRysw&_nc_ht=scontent-qro1-1.xx&oh=73fc379d789dd9973a27fdb8108ebaf2&oe=5DB8B215",
+      "position": "iOS Developer & Co-Founder",
+      "started": "Oct 2015",
+      "ended": "Mar 2017",
+      "isCurrentJob": false,
+      "projects" : [
+        {
+          "name": "Memorick",
+          "image": "https://scontent.fmex15-1.fna.fbcdn.net/v/t31.0-8/19477730_1544913558914456_5548540952822476117_o.png?_nc_cat=108&_nc_eui2=AeFf5smVgknpUCojg_p_UEGYKCkYQhsVqdD-2QmIeSlXNFXJO8Yit8wDOH1NNAoU9gN3VsINADu-rbTqvQkw0gjzVFM2ZReq5DavKy5U1YoE_A&_nc_oc=AQmNcBftO3ua2qa8zBWrKVTJmc1_fg6uiRv5VrjjRfwZ-4zKA8gUeqZBuVdZ7j4otcU&_nc_ht=scontent.fmex15-1.fna&oh=d421412a12af3a40afbd67b556b426b3&oe=5DA8EA9E",
+          "projectPath": "https://appadvice.com/game/app/memorick/1335629535",
+          "started": "Nov 2016",
+          "ended": "Mar 2017",
+          "description": "Created and developed 2 Applications for Memorick. One for clients and one for users. This were my first official iOS Applications. It was completely done in Swift. I was also leading the team as tech lead.",
+          "position" : "iOS Developer",
+          "skillsUsed" : [
+            {
+              "skillName" : "Swift",
+              "category" : "lang",
+              "proficency": "intermediate",
+              "icon": "https://www.bleepstatic.com/content/hl-images/2017/03/18/thumb/170x170_apple-swift.jpg"
+            },
+            {
+              "skillName" : "AlamoFire",
+              "category" : "framework",
+              "proficency": "adept",
+              "icon": "https://www.codeterritory.com/assets/icon_server-4d5403dc91dcc464cd0a21f0046e3e77.png"
+            },
+            {
+              "skillName" : "Realm IO",
+              "category" : "framework",
+              "proficency": "begginner",
+              "icon": "https://pbs.twimg.com/profile_images/738192303634845699/XzDXMlHD.jpg"
+            },
+            {
+              "skillName" : "UICalendar",
+              "category" : "framework",
+              "proficency": "begginner",
+              "icon": "https://www.emojibase.com/resources/img/emojis/apple/x1f4c5.png.pagespeed.ic.SmkUjVQV6x.png"
+            },
+            {
+              "skillName" : "Firebase",
+              "category" : "framework",
+              "proficency": "begginner",
+              "icon": "https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-512.png"
+            },
+            {
+              "skillName" : "InterfaceBuilder",
+              "category" : "iosDev",
+              "proficency": "adept",
+              "icon": "https://cdn2.iconfinder.com/data/icons/building-flat/512/crane_2-512.png"
+            },
+            {
+              "skillName" : "MVC",
+              "category" : "arch",
+              "proficency": "adept",
+              "icon": "https://www.codeproject.com/KB/aspnet/528117/11.JPG"
+            }
+          ]
+        },
+        {
+          "name": "Allianz DAF",
+          "image": "https://scontent.fmex15-1.fna.fbcdn.net/v/t1.0-9/19756500_1940392409578621_6167543634362566613_n.jpg?_nc_cat=1&_nc_eui2=AeFjluiQcH_Ir2QJk75Acp7We4sPZLmVBml9V4E3M6j0FarG-qCE3yZ0ieH3l2uuoaI8oDY8w4K9vlnBrNJ_KJj9XdfPRiiF-_BQ3p-gjHzL5g&_nc_oc=AQnWSTYLqfLuDR1D7d7oRnY02taPJbjBEyGTjqgnnIvtkno93QNRbwCsUV5cG5ZPS0c&_nc_ht=scontent.fmex15-1.fna&oh=bfc0197e929929872bfcf2aedb59a54c&oe=5DEE9646",
+          "projectPath": "https://apps.apple.com/mx/app/allianz-daf/id1381195346",
+          "started": "Mar 2016",
+          "ended": "Nov 2016",
+          "description": "Developed custom UI Plugins for iOS to use with iONIC, There were basically 3 plugins. One is a face recognition plugin that detects when user blinks, Allianz used it on the DAF app to check wether a client is a real person or not. Second was a document Cropper, the document cropper would take proportions based on the type of document and take a cropped picture of a document. Document Scanner, this one was a lot more complex since it would snap a picture and detect (with a special algorithm using Open CV) where the edges of a document were, based on that it would adjust the perspective of the image and crop it, this plugin replaced the Document Cropper on Allianz DAF App",
+          "position" : "iOS Developer",
+          "skillsUsed" : [
+            {
+              "skillName" : "Swift",
+              "category" : "lang",
+              "proficency": "intermediate",
+              "icon": "https://www.bleepstatic.com/content/hl-images/2017/03/18/thumb/170x170_apple-swift.jpg"
+            },
+            {
+              "skillName" : "Objective C",
+              "category" : "lang",
+              "proficency": "adept",
+              "icon": "https://images.ctfassets.net/7clmb9ye18e7/6LpZ8WIScMKQsAi0EoosMy/253f0d9b2f13a1b48d2a35632e86487f/Objective-c-logo.png"
+            },
+            {
+              "skillName" : "OpenCV",
+              "category" : "framework",
+              "proficency": "begginner",
+              "icon": "https://www.brandeps.com/logo-download/O/OpenCV-01.png"
+            },
+            {
+              "skillName" : "Google Image",
+              "category" : "framework",
+              "proficency": "begginner",
+              "icon": "https://cdn1.iconfinder.com/data/icons/appicns/513/appicns_Chrome.png"
+            },
+            {
+              "skillName" : "InterfaceBuilder",
+              "category" : "iosDev",
+              "proficency": "adept",
+              "icon": "https://cdn2.iconfinder.com/data/icons/building-flat/512/crane_2-512.png"
+            },
+            {
+              "skillName" : "MVC",
+              "category" : "arch",
+              "proficency": "adept",
+              "icon": "https://www.codeproject.com/KB/aspnet/528117/11.JPG"
+            }
+          ]
+        },
+        {
+          "name": "Traveo In-house Dashboard",
+          "image": "https://scontent.fmex15-1.fna.fbcdn.net/v/t1.0-9/35143003_10156420251333622_2931920778498670592_n.png?_nc_cat=101&_nc_eui2=AeHqcsERL8qXYhv6qMnKc97nrEk7Rc2aTqXhAszMsk_eHXJGV2tEKEGSAHTYdCu7qsrgP8uJxCVLlTeGr7Z6P1b_yQbAj_immgNoU31pEkF0Fg&_nc_oc=AQmtbpHjKJj_Zfm_LMfJhXrG8CctTUWZ4HAIECmqhGYBKG5_ov7cJhIr-BQTSt0mV48&_nc_ht=scontent.fmex15-1.fna&oh=6a4eba1204d0bb44450af0384327b7f5&oe=5DED4312",
+          "started": "Oct 2015",
+          "ended": "Nov 2015",
+          "description": "Developed custom dashboard for traveo, where traveo could watch statistics and trip details of all of their clients. This was developed using Angular JS and Node. My job was to develop the front-end",
+          "position" : "Frontend Developer",
+          "skillsUsed" : [
+            {
+              "skillName" : "Java Script",
+              "category" : "lang",
+              "proficency": "intermediate",
+              "icon": "https://cdn1.iconfinder.com/data/icons/application-file-formats/128/javascript-512.png"
+            },
+            {
+              "skillName" : "Angular JS",
+              "category" : "framework",
+              "proficency": "adept",
+              "icon": "https://code-maven.com/img/angularjs.png"
+            },
+            {
+              "skillName" : "HTML 5",
+              "category" : "mlang",
+              "proficency": "adept",
+              "icon": "https://www.w3.org/html/logo/img/mark-only-icon.png"
+            },
+            {
+              "skillName" : "CSS",
+              "category" : "slang",
+              "proficency": "begginner",
+              "icon": "https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-128.png"
+            },
+          ]
+        },
+      ]
+    },
+  ],
+  "skills": [
+    {
+      "isPrimary" : true,
+      "skillName" : "Swift",
+      "category" : "lang",
+      "proficency": "intermediate",
+      "icon": "https://www.bleepstatic.com/content/hl-images/2017/03/18/thumb/170x170_apple-swift.jpg"
+    },
+    {
+      "skillName" : "Objective C",
+      "category" : "lang",
+      "proficency": "adept",
+      "icon": "https://images.ctfassets.net/7clmb9ye18e7/6LpZ8WIScMKQsAi0EoosMy/253f0d9b2f13a1b48d2a35632e86487f/Objective-c-logo.png"
+    },
+    {
+      "isPrimary" : true,
+      "skillName" : "InterfaceBuilder",
+      "category" : "iosDev",
+      "proficency": "intermediate",
+      "icon": "https://cdn2.iconfinder.com/data/icons/building-flat/512/crane_2-512.png"
+    },
+    {
+      "skillName" : "Auto-lay out",
+      "category" : "iosDev",
+      "proficency": "adept",
+      "icon": "https://image.flaticon.com/icons/svg/237/237390.svg"
+    },
+    {
+      "isPrimary" : true,
+      "skillName" : "MVC",
+      "category" : "arch",
+      "proficency": "intermediate",
+      "icon": "https://www.codeproject.com/KB/aspnet/528117/11.JPG"
+    },
+    {
+      "isPrimary" : true,
+      "skillName" : "MVVM",
+      "category" : "lang",
+      "proficency": "adept",
+      "icon": "https://cocoacasts.s3.amazonaws.com/courses/mastering-model-view-viewmodel-with-swift-3/icon-mvvm.png"
+    },
+    {
+      "skillName" : "MVP",
+      "category" : "lang",
+      "proficency": "begginner",
+      "icon": "https://vignette.wikia.nocookie.net/hypixelserver/images/7/70/MVP-0.png/revision/latest?cb=20150804135557"
+    },
+    {
+      "skillName" : "VIPER",
+      "category" : "lang",
+      "proficency": "begginner",
+      "icon": "https://thumbs.dreamstime.com/t/viper-snake-serpent-cobra-python-anaconda-viper-royal-engraved-hand-drawn-old-sketch-vintage-style-viper-snake-105248006.jpg"
+    },
+    {
+      "skillName" : "Singleton",
+      "category" : "pattern",
+      "proficency": "adept",
+      "icon": "https://www.singletonmoms.org/sing-content/uploads/Care-Team-Cleans-Icon.png"
+    },
+    {
+      "isPrimary" : true,
+      "skillName" : "Repository",
+      "category" : "pattern",
+      "proficency": "begginner",
+      "icon": "https://inedo.com/proget/repo-icon.png"
+    },
+    {
+      "skillName" : "Custom Framework Creation",
+      "category" : "iosDev",
+      "proficency": "intermediate",
+      "icon": "https://cdn2.iconfinder.com/data/icons/computer-roundline/512/pictures-512.png"
+    },
+    {
+      "skillName" : "Delegate",
+      "category" : "pattern",
+      "proficency": "adept",
+      "icon": "https://cdn4.iconfinder.com/data/icons/human-activities-and-social-interaction/256/hierarchy_256x256-512.png"
+    },
+    {
+      "skillName" : "AlamoFire",
+      "category" : "framework",
+      "proficency": "adept",
+      "icon": "https://www.codeterritory.com/assets/icon_server-4d5403dc91dcc464cd0a21f0046e3e77.png"
+    },
+    {
+      "skillName" : "Realm IO",
+      "category" : "framework",
+      "proficency": "adept",
+      "icon": "https://pbs.twimg.com/profile_images/738192303634845699/XzDXMlHD.jpg"
+    },
+    {
+      "skillName" : "Firebase",
+      "category" : "framework",
+      "proficency": "adept",
+      "icon": "https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-512.png"
+    },
+    {
+      "skillName" : "Google Image",
+      "category" : "framework",
+      "proficency": "begginner",
+      "icon": "https://cdn1.iconfinder.com/data/icons/appicns/513/appicns_Chrome.png"
+    },
+    {
+      "skillName" : "OpenCV",
+      "category" : "framework",
+      "proficency": "begginner",
+      "icon": "https://www.brandeps.com/logo-download/O/OpenCV-01.png"
+    },
+    {
+      "skillName" : "Java Script",
+      "category" : "lang",
+      "proficency": "intermediate",
+      "icon": "https://cdn1.iconfinder.com/data/icons/application-file-formats/128/javascript-512.png"
+    },
+    {
+      "skillName" : "Python",
+      "category" : "lang",
+      "proficency": "begginner",
+      "icon": "https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/python-512.png"
+    },
+    {
+      "skillName" : "C++",
+      "category" : "lang",
+      "proficency": "begginner",
+      "icon": "https://www.file-extensions.org/imgs/app-icon/128/4665/dev-c.png"
+    },
+  ],
+  "otherProjects": [
+    {
+      "name": "Scorp Viewer",
+      "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/Scorpion_1077-01.jpg/revision/latest/scale-to-width-down/180?cb=20120814171523",
+      "projectPath": "https://github.com/ios-scorp-dev-syndicate/ScorpViewer",
+      "started": "Jul 2019",
+      "ended": null,
+      "description": "Developed Custom UI framework. This framework conrtains a special view that you can send UIImages to and Display them on the screen. You can swip left to right to view the fotos. The view is customizable and if you want the most basic application of this framework you can always call the custom View Controller.",
+      "position" : "iOS Developer",
+      "skillsUsed" : [
+        {
+          "skillName" : "Swift",
+          "category" : "lang",
+          "proficency": "intermediate",
+          "icon": "https://www.bleepstatic.com/content/hl-images/2017/03/18/thumb/170x170_apple-swift.jpg"
+        },
+        {
+          "skillName" : "InterfaceBuilder",
+          "category" : "iosDev",
+          "proficency": "intermediate",
+          "icon": "https://cdn2.iconfinder.com/data/icons/building-flat/512/crane_2-512.png"
+        },
+        {
+          "skillName" : "Custom Framework Creation",
+          "category" : "iosDev",
+          "proficency": "intermediate",
+          "icon": "https://cdn2.iconfinder.com/data/icons/computer-roundline/512/pictures-512.png"
+        },
+        {
+          "skillName" : "Auto-lay out",
+          "category" : "iosDev",
+          "proficency": "adept",
+          "icon": "https://image.flaticon.com/icons/svg/237/237390.svg"
+        },
+        {
+          "skillName" : "MVC",
+          "category" : "arch",
+          "proficency": "intermediate",
+          "icon": "https://www.codeproject.com/KB/aspnet/528117/11.JPG"
+        }
+      ]
+    },
+    {
+      "name": "Minum",
+      "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple69/v4/d5/7c/2a/d57c2a1e-adfd-55ff-8a54-3739a2d745eb/source/1200x630bb.jpg",
+      "projectPath": "https://apps.apple.com/de/app/minum/id1089638830",
+      "started": "Jun 2015",
+      "ended": "Jun 2015",
+      "description": "My first published iOS Game, really simple game based on breakout, developed with spriteKit",
+      "position" : "iOS Developer",
+      "skillsUsed" : [
+        {
+          "skillName" : "Swift",
+          "category" : "lang",
+          "proficency": "intermediate",
+          "icon": "https://www.bleepstatic.com/content/hl-images/2017/03/18/thumb/170x170_apple-swift.jpg"
+        },
+        {
+          "skillName" : "Sprite Kit",
+          "category" : "framework",
+          "proficency": "intermediate",
+          "icon": "https://blog.xamarin.com/wp-content/uploads/2014/09/spritekit-icon.png"
+        }
+      ]
+    },
+  ]
+}

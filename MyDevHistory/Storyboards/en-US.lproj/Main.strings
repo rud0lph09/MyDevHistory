@@ -1,0 +1,117 @@
+
+/* Class = "UILabel"; text = "periodicity"; ObjectID = "4Gp-Vn-eqa"; */
+"4Gp-Vn-eqa.text" = "periodicity";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "4eU-Gl-cdw"; */
+"4eU-Gl-cdw.text" = "Category";
+
+/* Class = "UILabel"; text = "TinyDescription"; ObjectID = "5WZ-2t-Lmu"; */
+"5WZ-2t-Lmu.text" = "TinyDescription";
+
+/* Class = "UIButton"; normalTitle = "my@email.com"; ObjectID = "5Wh-UQ-82L"; */
+"5Wh-UQ-82L.normalTitle" = "my@email.com";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "5fb-hd-AhQ"; */
+"5fb-hd-AhQ.text" = "Description";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "958-h6-Vsn"; */
+"958-h6-Vsn.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Position"; ObjectID = "9VN-g3-Dnm"; */
+"9VN-g3-Dnm.text" = "Position";
+
+/* Class = "UILabel"; text = "TinyDescription"; ObjectID = "BOh-uK-MwG"; */
+"BOh-uK-MwG.text" = "TinyDescription";
+
+/* Class = "UIViewController"; title = "My Resume"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "My Resume";
+
+/* Class = "UILabel"; text = "Position"; ObjectID = "EQO-Op-uhi"; */
+"EQO-Op-uhi.text" = "Position";
+
+/* Class = "UILabel"; text = "My name is"; ObjectID = "ItF-n5-QbH"; */
+"ItF-n5-QbH.text" = "My name is";
+
+/* Class = "UILabel"; text = "Profile:"; ObjectID = "K6c-Dk-ZAW"; */
+"K6c-Dk-ZAW.text" = "Profile:";
+
+/* Class = "UILabel"; text = "Company Name"; ObjectID = "LQc-le-4Tk"; */
+"LQc-le-4Tk.text" = "Company Name";
+
+/* Class = "UIButton"; normalTitle = "my-phone-number"; ObjectID = "PKa-qV-a8O"; */
+"PKa-qV-a8O.normalTitle" = "my-phone-number";
+
+/* Class = "UILabel"; text = "CompanyName"; ObjectID = "Pgz-zf-3Do"; */
+"Pgz-zf-3Do.text" = "CompanyName";
+
+/* Class = "UIButton"; normalTitle = "My Achievements"; ObjectID = "Pt6-wm-GkG"; */
+"Pt6-wm-GkG.normalTitle" = "My Achievements";
+
+/* Class = "UILabel"; text = "✪"; ObjectID = "SFW-4h-ntx"; */
+"SFW-4h-ntx.text" = "✪";
+
+/* Class = "UILabel"; text = "periodicity"; ObjectID = "SNb-Q1-ehF"; */
+"SNb-Q1-ehF.text" = "periodicity";
+
+/* Class = "UILabel"; text = "Position"; ObjectID = "VTa-Ap-Ml8"; */
+"VTa-Ap-Ml8.text" = "Position";
+
+/* Class = "UILabel"; text = "SkillName"; ObjectID = "Xz7-Sv-ygI"; */
+"Xz7-Sv-ygI.text" = "SkillName";
+
+/* Class = "UIButton"; normalTitle = "View more"; ObjectID = "YQ6-ck-cOS"; */
+"YQ6-ck-cOS.normalTitle" = "View more";
+
+/* Class = "UILabel"; text = "Description:"; ObjectID = "Yfe-Qs-qdB"; */
+"Yfe-Qs-qdB.text" = "Description:";
+
+/* Class = "UILabel"; text = "Proficency"; ObjectID = "Z2m-H7-6uZ"; */
+"Z2m-H7-6uZ.text" = "Proficency";
+
+/* Class = "UILabel"; text = "2019"; ObjectID = "Z4s-3C-LWG"; */
+"Z4s-3C-LWG.text" = "2019";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "aHY-Me-rbp"; */
+"aHY-Me-rbp.text" = "Category";
+
+/* Class = "UILabel"; text = "ProyectName"; ObjectID = "ahO-kY-QK5"; */
+"ahO-kY-QK5.text" = "ProyectName";
+
+/* Class = "UILabel"; text = "SkillName"; ObjectID = "bHi-01-1Xr"; */
+"bHi-01-1Xr.text" = "SkillName";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "bx8-cT-sE5"; */
+"bx8-cT-sE5.text" = "Category";
+
+/* Class = "UILabel"; text = "2019"; ObjectID = "fRb-mg-J4j"; */
+"fRb-mg-J4j.text" = "2019";
+
+/* Class = "UILabel"; text = "View more"; ObjectID = "fiW-Ky-mTV"; */
+"fiW-Ky-mTV.text" = "View more";
+
+/* Class = "UILabel"; text = "Proficency"; ObjectID = "gec-cg-ZSQ"; */
+"gec-cg-ZSQ.text" = "Proficency";
+
+/* Class = "UILabel"; text = "Position"; ObjectID = "kB6-qw-VAg"; */
+"kB6-qw-VAg.text" = "Position";
+
+/* Class = "UILabel"; text = "I am"; ObjectID = "ldy-0A-xft"; */
+"ldy-0A-xft.text" = "I am";
+
+/* Class = "UILabel"; text = "ProyectName"; ObjectID = "qjl-6g-H0o"; */
+"qjl-6g-H0o.text" = "ProyectName";
+
+/* Class = "UILabel"; text = "Jun 2019 - Dec 2022"; ObjectID = "sca-Pt-jZw"; */
+"sca-Pt-jZw.text" = "Jun 2019 - Dec 2022";
+
+/* Class = "UILabel"; text = "Project name"; ObjectID = "wEL-P9-cI5"; */
+"wEL-P9-cI5.text" = "Project name";
+
+/* Class = "UILabel"; text = "Position"; ObjectID = "xb2-oQ-Grp"; */
+"xb2-oQ-Grp.text" = "Position";
+
+/* Class = "UILabel"; text = "SkillName"; ObjectID = "yyT-W7-QAA"; */
+"yyT-W7-QAA.text" = "SkillName";
+
+/* Class = "UILabel"; text = "Proficency"; ObjectID = "zkk-vx-RjM"; */
+"zkk-vx-RjM.text" = "Proficency";

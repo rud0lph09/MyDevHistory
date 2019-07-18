@@ -1,0 +1,23 @@
+/* 
+  localizables.strings
+  MyDevHistory
+
+  Created by Rodolfo Castillo Vidrio on 7/22/19.
+  Copyright © 2019 Rodolfo Castillo Vidrio. All rights reserved.
+*/
+
+"job_section_header" = "Job History";
+"other_projects_header" = "Other Projects";
+"skills_header" = "Skills";
+
+"profile_label" = "Profile";
+"my_achievements_label" = "My achievements";
+"descriptionl_label" = "Description";
+"view_more_label" = "View More";
+"wait_loading" = "Wiat... we are loading the resume";
+
+"unknown_error" = "Something wrong happened.";
+"empty_response" = "Service response was empty";
+"parsing_error" = "Could not parse JSON";
+"error_reload_message" = "Try again";
+"error_title" = "Whoops!";
